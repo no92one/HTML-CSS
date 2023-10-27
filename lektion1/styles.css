@@ -1,0 +1,18 @@
+li {
+  color: darkmagenta;
+}
+
+ul > li {
+  color: blue;
+  font-size: 25px;
+}
+
+ul > .pros {
+  color: green;
+  font-size: 50px;
+}
+
+ul > .cons {
+  color: red;
+  font-size: 75px;
+}
