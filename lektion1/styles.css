@@ -16,3 +16,11 @@ ul > .cons {
   color: red;
   font-size: 75px;
 }
+
+h2 {
+  color: green;
+}
+
+main > h2 {
+  color: violet;
+}
